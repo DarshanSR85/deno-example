@@ -1,1 +1,1 @@
-This is an example repo create to understand How deno thiry party modules will work.
+This is an example repo created to understand How deno thiry party modules will work.
